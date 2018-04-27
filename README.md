@@ -1,2 +1,2 @@
 # mobile-city-builder
-Trying out GitHub right now.
+My Unity Project of Mobile City Builder
